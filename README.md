@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhay Rawat</h1>
-<h3 align="center">A passionate Software Developer</h3>
+### Hi there 👋, I'm Abhay Rawat
+---
+
 
 <!-- Programming Languages -->
 <h4>🧠 Programming Languages</h4>
