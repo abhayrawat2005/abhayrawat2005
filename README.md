@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Abhay Rawat
 ---
 
-- 📫 How to reach me **rawat.abhay2005@gmail.com**
----
-
 <!-- Programming Languages -->
 <h4>🧠 Programming Languages</h4>
 <p>
