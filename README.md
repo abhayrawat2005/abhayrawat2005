@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Abhay Rawat
 ---
-
-<img alig="right"alt="coding"width="400" src="https://github.com/user-attachments/assets/656fa1dc-af12-4af8-9811-7863ec32cc24"/>
+<p><img alig="right"alt="coding"width="400" src="https://github.com/user-attachments/assets/656fa1dc-af12-4af8-9811-7863ec32cc24"/></p>
 
 <!-- Programming Languages -->
 <h4>🧠 Programming Languages</h4>
