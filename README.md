@@ -28,22 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="Express.js" />
 </p>
 
-<!-- Machine Learning & Data Science -->
-<h4>🤖 Machine Learning & Data Science</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="Scikit-learn" />
-</p>
-
-
 <!-- Connect with me -->
 <h4>🌐 Connect with me</h4>
 <p>
   <a href="https://linkedin.com/in/abhayrawat2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhayrawat2005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhayrawat2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhayrawat2005" height="30" width="40" /></a> </p>
+<a href="https://codeforces.com/profile/abhayrawat2005" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/codeforces.svg" alt="abhayrawat2005" height="30" width="40" /></a> </p>
 
 📧 **rawat.abhay2005@gmail.com**
 
